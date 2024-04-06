@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VISION</string>
+    <string name="default_title_txt">Experience the world \nDifferently</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_camera">Camera</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="camera_error_default_msg">Oops , Couldn\'t get image from camera</string>
+    <string name="no_text_found">No Text Found</string>
+    <string name="permission_denied_msg">Permission Denied</string>
+    <string name="error_default_msg">Error Default Msg</string>
+    <string name="torch_not_available_msg">Torch not available</string>
+    <string name="share_text_title">Share Text</string>
+    <string name="clipboard_text">Clipboard Text</string>
+
+    <string name="hint">Here are some guidelines for you, On the top left corner you will find hint button,
+    at the bottom left we have placed a button to navigate up and at the bottom right we have placed a button
+    to navigate down. Moreover, you can also navigate using voice command button which is at the bottom center.</string>
+</resources>

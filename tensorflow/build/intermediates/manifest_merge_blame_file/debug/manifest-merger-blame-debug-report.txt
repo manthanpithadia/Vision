@@ -1,0 +1,77 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3    ~ Copyright 2022 The TensorFlow Authors. All Rights Reserved.
+4    ~
+5    ~ Licensed under the Apache License, Version 2.0 (the "License");
+6    ~ you may not use this file except in compliance with the License.
+7    ~ You may obtain a copy of the License at
+8    ~
+9    ~       http://www.apache.org/licenses/LICENSE-2.0
+10    ~
+11    ~ Unless required by applicable law or agreed to in writing, software
+12    ~ distributed under the License is distributed on an "AS IS" BASIS,
+13    ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14    ~ See the License for the specific language governing permissions and
+15    ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    xmlns:dist="http://schemas.android.com/apk/distribution"
+19    xmlns:tools="http://schemas.android.com/tools"
+20    package="org.tensorflow.lite.examples.objectdetection" >
+21
+22    <uses-sdk android:minSdkVersion="1" />
+22-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml
+23
+24    <!-- Enable instant app support -->
+25    <dist:module dist:instant="true" />
+25-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:24:5-40
+25-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:24:18-37
+26
+27    <!-- Declare features -->
+28    <uses-feature android:name="android.hardware.camera" />
+28-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:27:5-60
+28-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:27:19-57
+29
+30    <!-- Declare permissions -->
+31    <uses-permission android:name="android.permission.CAMERA" />
+31-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:30:5-65
+31-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:30:22-62
+32
+33    <application
+33-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:32:5-53:19
+34        android:allowBackup="true"
+34-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:35:9-35
+35        android:label="@string/app_name"
+35-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:34:9-41
+36        android:taskAffinity=""
+36-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:36:9-32
+37        tools:ignore="AllowBackup" >
+37-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:37:9-35
+38        <activity
+38-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:39:9-51:20
+39            android:name="org.tensorflow.lite.examples.objectdetection.MainActivity"
+39-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:40:13-41
+40            android:clearTaskOnLaunch="true"
+40-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:41:13-45
+41            android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize"
+41-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:46:13-91
+42            android:exported="true"
+42-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:43:13-36
+43            android:resizeableActivity="true"
+43-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:45:13-46
+44            android:rotationAnimation="seamless"
+44-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:44:13-49
+45            android:theme="@style/AppTheme"
+45-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:42:13-44
+46            tools:targetApi="O" >
+46-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:47:13-32
+47            <meta-data
+47-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:49:8-78
+48                android:name="android.notch_support"
+48-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:49:19-55
+49                android:value="true" />
+49-->A:\Conestoga\Level4\Final_Project\App\VISION\tensorflow\src\main\AndroidManifest.xml:49:56-76
+50        </activity>
+51    </application>
+52
+53</manifest>

@@ -1,0 +1,24 @@
+org/tensorflow/lite/examples/objectdetection/DataBinderMapperImpl.java
+ org.tensorflow.lite.examples.objectdetection.DataBinderMapperImpl
+ org.tensorflow.lite.examples.objectdetection.DataBinderMapperImpl$InnerBrLookup
+ org.tensorflow.lite.examples.objectdetection.DataBinderMapperImpl$InnerLayoutIdLookup
+org/tensorflow/lite/examples/objectdetection/BR.java
+ org.tensorflow.lite.examples.objectdetection.BR
+org/tensorflow/lite/examples/objectdetection/databinding/InfoBottomSheetBinding.java
+ org.tensorflow.lite.examples.objectdetection.databinding.InfoBottomSheetBinding
+org/tensorflow/lite/examples/objectdetection/BuildConfig.java
+ org.tensorflow.lite.examples.objectdetection.BuildConfig
+org/tensorflow/lite/examples/objectdetection/fragments/CameraFragmentDirections.java
+ org.tensorflow.lite.examples.objectdetection.fragments.CameraFragmentDirections
+org/tensorflow/lite/examples/objectdetection/databinding/FragmentCameraBinding.java
+ org.tensorflow.lite.examples.objectdetection.databinding.FragmentCameraBinding
+org/tensorflow/lite/examples/objectdetection/DataBindingTriggerClass.java
+ org.tensorflow.lite.examples.objectdetection.DataBindingTriggerClass
+org/tensorflow/lite/examples/objectdetection/databinding/ActivityMainBinding.java
+ org.tensorflow.lite.examples.objectdetection.databinding.ActivityMainBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+org/tensorflow/lite/examples/objectdetection/fragments/PermissionsFragmentDirections.java
+ org.tensorflow.lite.examples.objectdetection.fragments.PermissionsFragmentDirections
