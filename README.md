@@ -37,9 +37,8 @@ The VISION app is an Android application designed to assist visually impaired in
 2. Follow the on-screen instructions to utilize the various features such as object detection, text recognition, and social media interaction.
 3. Provide feedback and suggestions for further improvements.
 
-## Screenshots
-
-
+## Presentation
+https://www.canva.com/design/DAFUIiovkjE/ioLBhQLxMhzquKm53LcFHA/view?utm_content=DAFUIiovkjE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ## License
 
